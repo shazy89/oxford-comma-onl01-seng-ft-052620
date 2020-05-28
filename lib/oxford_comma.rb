@@ -1,4 +1,4 @@
 
 def oxford_comma(array_to_string)
-  if 
+  if  array_to_string == 1
 end
